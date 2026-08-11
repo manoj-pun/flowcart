@@ -66,7 +66,7 @@ export default function Hero() {
 
         <div ref={imageRef} className="relative h-[500px] overflow-hidden bg-neutral-200 md:h-[650px]">
           <Image
-            src="/products/shirt-front.webp"
+            src="/shirt-front.webp"
             alt="Minimal linen shirt"
             fill
             priority
